@@ -1,0 +1,122 @@
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\player Api.exe.config
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\player Api.exe
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\player Api.pdb
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player_Api.Form1.resources
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player_Api.Properties.Resources.resources
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player Api.csproj.GenerateResource.Cache
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player Api.exe
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player Api.pdb
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\HtmlAgilityPack.dll
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\Newtonsoft.Json.dll
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\VkNet.dll
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\HtmlAgilityPack.pdb
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\HtmlAgilityPack.xml
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\Newtonsoft.Json.pdb
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\Newtonsoft.Json.xml
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\VkNet.pdb
+c:\users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\VkNet.xml
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\Interop.WMPLib.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player Api.csproj.ResolveComReference.cache
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player_Api.LoginAccaunt.resources
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player Api.exe.licenses
+C:\Users\mrsok\documents\visual studio 2015\Projects\player Api\player Api\obj\Debug\player Api.csprojResolveAssemblyReference.cache
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\bin\Debug\player Api.exe.config
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\Interop.WMPLib.dll
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player Api.csproj.ResolveComReference.cache
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player Api.exe
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player Api.pdb
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player Api.csprojResolveAssemblyReference.cache
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player_Api.Form1.resources
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player_Api.LoginAccaunt.resources
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player_Api.Properties.Resources.resources
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player Api.csproj.GenerateResource.Cache
+C:\Users\Shiroyasha\Documents\Visual Studio 2012\Projects\player Api\player Api\obj\Debug\player Api.exe.licenses
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\player Api.exe.config
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\Interop.WMPLib.dll
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player Api.csproj.ResolveComReference.cache
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player Api.exe
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player Api.pdb
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\player Api.exe
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\player Api.pdb
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\VkNet.dll
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\HtmlAgilityPack.dll
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\VkNet.pdb
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\VkNet.xml
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\mrsok\Desktop\player Api\player Api\bin\Debug\HtmlAgilityPack.xml
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player Api.csprojResolveAssemblyReference.cache
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player_Api.Form1.resources
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player_Api.LoginAccaunt.resources
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player_Api.Properties.Resources.resources
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player Api.csproj.GenerateResource.Cache
+C:\Users\mrsok\Desktop\player Api\player Api\obj\Debug\player Api.exe.licenses
+C:\Users\Руслан\Desktop\player Api\player Api\bin\Debug\player Api.exe.config
+C:\Users\Руслан\Desktop\player Api\player Api\obj\Debug\Interop.WMPLib.dll
+C:\Users\Руслан\Desktop\player Api\player Api\obj\Debug\player Api.csproj.ResolveComReference.cache
+C:\Users\Руслан\Desktop\player Api\player Api\obj\Debug\player Api.exe
+C:\Users\Руслан\Desktop\player Api\player Api\obj\Debug\player Api.pdb
+D:\Desktop\player Api\player Api\bin\Debug\player Api.exe.config
+D:\Desktop\player Api\player Api\obj\Debug\Interop.WMPLib.dll
+D:\Desktop\player Api\player Api\obj\Debug\player Api.csproj.ResolveComReference.cache
+D:\Desktop\player Api\player Api\obj\Debug\player Api.exe
+D:\Desktop\player Api\player Api\obj\Debug\player Api.pdb
+D:\Desktop\player Api\player Api\obj\Debug\player Api.csprojResolveAssemblyReference.cache
+D:\Desktop\player Api\player Api\obj\Debug\player_Api.Form1.resources
+D:\Desktop\player Api\player Api\obj\Debug\player_Api.LoginAccaunt.resources
+D:\Desktop\player Api\player Api\obj\Debug\player_Api.Properties.Resources.resources
+D:\Desktop\player Api\player Api\obj\Debug\player Api.csproj.GenerateResource.Cache
+D:\Desktop\player Api\player Api\obj\Debug\player Api.exe.licenses
+D:\Desktop\player Api\player Api\bin\Debug\player Api.exe
+D:\Desktop\player Api\player Api\bin\Debug\player Api.pdb
+D:\Desktop\player Api\player Api\bin\Debug\mscorlib.dll
+D:\Desktop\player Api\player Api\bin\Debug\System.Net.Http.dll
+D:\Desktop\player Api\player Api\bin\Debug\VkNet.dll
+D:\Desktop\player Api\player Api\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\player Api\player Api\bin\Debug\HtmlAgilityPack.dll
+D:\Desktop\player Api\player Api\bin\Debug\System.Net.Http.xml
+D:\Desktop\player Api\player Api\bin\Debug\VkNet.pdb
+D:\Desktop\player Api\player Api\bin\Debug\VkNet.xml
+D:\Desktop\player Api\player Api\bin\Debug\Newtonsoft.Json.pdb
+D:\Desktop\player Api\player Api\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\player Api\player Api\bin\Debug\HtmlAgilityPack.pdb
+D:\Desktop\player Api\player Api\bin\Debug\HtmlAgilityPack.xml
+D:\Desktop\player Api\player Api\bin\Debug\ru\mscorlib.resources.dll
+D:\Desktop\player Api\player Api\bin\Debug\ru\System.Net.Http.resources.dll
+D:\Desktop\player Api\player Api\bin\Debug\normidna.nlp
+D:\Desktop\player Api\player Api\bin\Debug\normnfc.nlp
+D:\Desktop\player Api\player Api\bin\Debug\normnfd.nlp
+D:\Desktop\player Api\player Api\bin\Debug\normnfkc.nlp
+D:\Desktop\player Api\player Api\bin\Debug\normnfkd.nlp
